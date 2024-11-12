@@ -14,7 +14,7 @@
     "language": "Russian",
     "featuredApp": {
         "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
-        "appLink": "https://play.google.com/store/apps/details?id=com.vapp.vmanager",
+        "appLink": "https://play.google.com/store/apps/details?id=com.outomatic.playsoun",
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
         "appTitle": "V Manager",
@@ -24,19 +24,19 @@
     },
     "moreApps": [
         {
-            "image": "https://play-lh.googleusercontent.com/_AnSpAUpwHww8KKSb3fGcfuG1k8z2doWcDC5bbZtrf7layDzv7UXjCmwycLeLGY8ljAG=w240-h480-rw",
-            "title": "Evony: The King's Return",
-            "appLink": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games"
+            "image": "https://play-lh.googleusercontent.com/pvFZflxdUp1_G49ID-vWZvkeLDkDyMp5sw0_zNZWRucyWAFyJgQvzng_rcUJScbCsA=w240-h480-rw",
+            "title": "ТРЕЙД В СТАНДОФФ 2 ",
+            "appLink": "https://play.google.com/store/apps/details?id=com.outomatic.playsoun"
         },
         {
-            "image": "https://play-lh.googleusercontent.com/5iLPAVMS9QXnbxQnlRdSAtLEU01x41iyQlaPRz_K940YTzC_jiGsf9dp4hLeiX69HbQ=w240-h480-rw",
-            "title": "Hunter Assassin",
-            "appLink": "https://play.google.com/store/apps/details?id=com.rubygames.assassin"
+            "image": "https://play-lh.googleusercontent.com/O1T2afBN9Vbxtxq_3cgLohvDkoGA-WFUiIzR5ma9Wa-KfE5DYk-MBcF-64jAXe5ID8Q=w240-h480-rw",
+            "title": "Floating sandbox titanic",
+            "appLink": "https://play.google.com/store/apps/details?id=com.samaz.pdfcreator"
         },
         {
-            "image": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA=w240-h480-rw",
-            "title": "GT Car Stunts",
-            "appLink": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks"
+            "image": "https://play-lh.googleusercontent.com/M6afEB0_hmCInU5zN-7Ius2280aRLrJA8iFFklmYFSGGChxKXDoZ5b6H4vnNGoWgtQ=w240-h480-rw",
+            "title": "floating sandbox sinking",
+            "appLink": "https://play.google.com/store/apps/details?id=com.samaz.qurankarim"
         }
     ],
     "categories": [
@@ -211,8 +211,8 @@
     "success_download_sub": "Мы стараемся улучшить ваш опыт. Если вам нравится наше приложение, пожалуйста, оцените нас на 5 звезд.",
     "download_success_title": "Загрузка успешна",
     "get_more_downloads_sub": "Смотрите рекламу, чтобы получить еще одну загрузку",
-    "installation_error_msg": "ML не установлен на вашем устройстве.",
-    "installation_error_sub": "ML не установлен на вашем устройстве.",
+    "installation_error_msg": "ТРЕЙД В СТАНДОФФ 2 не установлен на вашем устройстве.",
+    "installation_error_sub": "ТРЕЙД В СТАНДОФФ 2 не установлен на вашем устройстве.",
     "installation_error_title": "Ошибка установки",
     "installation_success_sub": "Скин успешно установлен"
 
