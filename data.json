@@ -13,14 +13,14 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Prague_10.svg/800px-Flag_of_Prague_10.svg.png",
     "language": "Russian",
     "featuredApp": {
-        "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
-        "appLink": "https://play.google.com/store/apps/details?id=com.outomatic.playsoun",
+        "appIcon": "https://static.beeline.ru/upload/images/landings/banner_rustore.png",
+        "appLink": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.ecapoi.chrismaswalla",
         "appSize": "12mb",
-        "appCover": "https://i.imgur.com/N0OjzuV.png",
-        "appTitle": "V Manager",
-        "isActive": false,
+        "appCover": "https://i.imgur.com/N0OjzuV.pnghttps://sun9-51.userapi.com/impg/BvMcPxzAnVRoFBLbFAGqIS5X2eoaFWlK_C8rcw/wXDY9t54_cs.jpg?size=604x339&quality=95&sign=8d18e1cd0012aed8e137d8cac2f3ef53&type=album",
+        "appTitle": "Rustore",
+        "isActive": true,
         "appRating": "5.0",
-        "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
+        "appDescription": "Rustore is becoming more and more like Google Play"
     },
     "moreApps": [
         {
