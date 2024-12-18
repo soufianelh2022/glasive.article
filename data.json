@@ -16,11 +16,11 @@
     "language": "Russian",
     "featuredApp": {
         "appIcon": "https://static.beeline.ru/upload/images/landings/banner_rustore.png",
-        "appLink": "https://tikbooster.online/?92b1941",
+        "appLink": "https://play.google.com/store/apps/details?id=com.ecapoi.chrismaswalla",
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.pnghttps://sun9-51.userapi.com/impg/BvMcPxzAnVRoFBLbFAGqIS5X2eoaFWlK_C8rcw/wXDY9t54_cs.jpg?size=604x339&quality=95&sign=8d18e1cd0012aed8e137d8cac2f3ef53&type=album",
         "appTitle": "Rustore",
-        "isActive": false,
+        "isActive": true,
         "appRating": "5.0",
         "appDescription": "Rustore is becoming more and more like Google Play"
     },
