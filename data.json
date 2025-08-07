@@ -1,8 +1,8 @@
 {
     "ads": {
-        "adNetwork": "applovin",
+        "adNetwork": "yandex",
         
-        "adNetwork": "applovin",
+        "adNetwork": "yandex",
         "yandex_interstitial": "R-M-12811657-3",
         "yandex_rewarded": "R-M-12811657-4",
         "yandex_banner": "R-M-12811657-1",
@@ -221,6 +221,7 @@
 
     }
 }
+
 
 
 
