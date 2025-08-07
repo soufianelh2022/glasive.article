@@ -1,7 +1,5 @@
 {
-    "ads": {
-        "adNetwork": "yandex",
-        
+    "ads": {        
         "adNetwork": "yandex",
         "yandex_interstitial": "R-M-12811657-3",
         "yandex_rewarded": "R-M-12811657-4",
@@ -221,6 +219,7 @@
 
     }
 }
+
 
 
 
