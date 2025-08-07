@@ -1,6 +1,6 @@
 {
     "ads": {        
-        "adNetwork": "yandex",
+        "adNetwork": "applovin",
         "yandex_interstitial": "R-M-12811657-3",
         "yandex_rewarded": "R-M-12811657-4",
         "yandex_banner": "R-M-12811657-1",
@@ -24,20 +24,9 @@
     },
    "moreApps": [
         {
-            "image": "https://play-lh.googleusercontent.com/IIO5v-Vdb15A7725XmsR0H9vUmDbaTvY7wUT1C06HRMEj7SwGZJtBO1IA6eNSlG4jgk=w240-h480-rw",
-            "title": "голда для стандофф 2 ",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stadoff.walstandoff"
-        },
-         {
-            "image": "https://play-lh.googleusercontent.com/ufsywAeua1uOTTbgSz5kzeXbVmR85F1DXuSSa4RdlqDYcya9LwQXRmw3nMydB1H5=w240-h480-rw",
-            "title": "читы стандофф 2 0.30.0 ",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stadoff.walstandoff"
-        },
-        {
-            "image": "https://play-lh.googleusercontent.com/pvFZflxdUp1_G49ID-vWZvkeLDkDyMp5sw0_zNZWRucyWAFyJgQvzng_rcUJScbCsA=w240-h480-rw",
-            "title": "читы стандофф 2 ",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stadoff.walstandoff"
-
+            "image": "https://play-lh.googleusercontent.com/Pj76q8t4kjONk0sa1KafpiC5pWqSBh3AK1Amu9w0S_h21VMgI-GJWFh2RnIICFHT5tE=s48-rw",
+            "title": "Horizon Chase",
+            "appLink": "https://play.google.com/store/apps/details?id=com.aquiris.horizonchase"
         }
     ],
     "categories": [
@@ -219,6 +208,7 @@
 
     }
 }
+
 
 
 
