@@ -1,16 +1,16 @@
 {
     "ads": {
-        "adNetwork": "yandex",
+        "adNetwork": "applovine",
         
-        "adNetwork": "yandex",
+        "adNetwork": "applovine",
         "yandex_interstitial": "R-M-12811657-3",
         "yandex_rewarded": "R-M-12811657-4",
         "yandex_banner": "R-M-12811657-1",
         "yandex_native": "R-M-12811657-2",
-        "applovin_banner": "ff12bd8a55ff06bf",
-        "applovin_native": "3ad3bbd1e3c1e075",
-        "applovin_rewarded": "7ac3f6ee667a6264",
-        "applovin_interstitial": "98f6a586ed642919"
+        "applovin_banner": "ed7e2c808472d2bb",
+        "applovin_native": "0afc3d478643ab50",
+        "applovin_rewarded": "40fc931494c08af0",
+        "applovin_interstitial": "a96846dec1cd579b"
     },
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Prague_10.svg/800px-Flag_of_Prague_10.svg.png",
     "language": "Russian",
@@ -20,7 +20,7 @@
         "appSize": "12mb",
         "appCover": "https://avatars.dzeninfra.ru/get-zen_doc/1923220/pub_63e39bf0912bd4746ccb5275_63e3a682912bd4746cce2f8e/scale_1200",
         "appTitle": "Rustore",
-        "isActive": true,
+        "isActive": false,
         "appRating": "5.0",
         "appDescription": "Rustore is becoming more and more like Google Play"
     },
@@ -220,3 +220,4 @@
 
     }
 }
+
