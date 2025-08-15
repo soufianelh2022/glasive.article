@@ -42,84 +42,84 @@
   "categories": [
     {
       "items": [
-        {
+         {
           "size": "2.8 MB",
-          "image": "https://picsum.photos/300/200?random=2",
-          "title": "Приключенческий квест",
+          "image": "https://www.dataset-ai.com/local/templates/main/vendors/images/2/6export0.png",
+          "title": "В магазине приложений",
           "lastUpdated": "2024-03-15",
           "isrecommended": true
         },
         {
-          "size": "1.5 MB",
-          "image": "https://picsum.photos/300/200?random=3",
-          "title": "Мастер пазлов",
-          "lastUpdated": "2024-03-10",
-          "isrecommended": false
+                     "size": "1.5 MB",
+                    "image": "https://i.pinimg.com/originals/e8/54/44/e8544455f56ab1d668521bead398f84a.png",
+                    "title": "В RuStore добавили",
+                    "lastUpdated": "2024-03-10",
+                    "isrecommended": false
         },
         {
-          "size": "4.2 MB",
-          "image": "https://picsum.photos/300/200?random=4",
-          "title": "Звезды гонок",
-          "lastUpdated": "2024-03-20",
-          "isrecommended": true
+                    "size": "4.2 MB",
+                    "image": "https://habrastorage.org/getpro/habr/upload_files/c40/4cc/da9/c404ccda90cdb9ccf4f9b385076f2ccd.png",
+                    "title": "смотреть онлайн все 1 видео ",
+                    "lastUpdated": "2024-03-20",
+                    "isrecommended": true
         }
       ],
-      "categoryImage": "https://picsum.photos/300/200?random=1",
-      "categoryTitle": "Игры"
+           "categoryImage": "https://i.pinimg.com/originals/9a/70/2e/9a702e61d4ec8d076bb44ce5befd34d9.png",
+            "categoryTitle": "Магазин приложений RuStore"
     },
     {
       "items": [
-        {
-          "size": "1.2 MB",
-          "image": "https://picsum.photos/300/200?random=6",
-          "title": "Проводник Pro",
-          "lastUpdated": "2024-03-18",
-          "isrecommended": true
+          {
+                     "size": "1.2 MB",
+                    "image": "https://www.nottingham.ac.uk/Alumni/images/News/2023/Big-Question-data-marketing-web.x9bfb30e1.jpg",
+                    "title": "Вышел российский аналог",
+                    "lastUpdated": "2024-03-18",
+                    "isrecommended": true
         },
         {
           "size": "0.8 MB",
-          "image": "https://picsum.photos/300/200?random=7",
-          "title": "Экономия батареи",
-          "lastUpdated": "2024-03-12",
-          "isrecommended": false
+                    "image": "https://trashbox.ru/ifiles/1950613_96672a_02/uchyonye-v-panike-iskusstvennyj-intellekt-nauchilsya-obmanyvat-lyudej-1.png",
+                    "title": "Imredi в  мобильных приложений ",
+                    "lastUpdated": "2024-03-12",
+                    "isrecommended": false
         },
         {
-          "size": "1.0 MB",
-          "image": "https://picsum.photos/300/200?random=8",
-          "title": "Калькулятор Плюс",
-          "lastUpdated": "2024-03-22",
-          "isrecommended": true
+         "size": "1.0 MB",
+                    "image": "https://static.vecteezy.com/system/resources/previews/009/335/139/original/electronic-head-virtual-vector.jpg",
+                    "title": "Ru-Store для android Sync",
+                    "lastUpdated": "2024-03-22",
+                    "isrecommended": true
         }
       ],
-      "categoryImage": "https://picsum.photos/300/200?random=5",
-      "categoryTitle": "Утилиты"
+             "categoryImage": "https://static.vecteezy.com/system/resources/previews/000/133/344/original/free-business-background-vector.jpg",
+            "categoryTitle": "Минцифры представило дорожную"
     },
     {
       "items": [
         {
-          "size": "3.5 MB",
-          "image": "https://picsum.photos/300/200?random=10",
-          "title": "Музыкальный плеер",
-          "lastUpdated": "2024-03-25",
-          "isrecommended": true
+                  "size": "3.5 MB",
+                    "image": "https://banner2.cleanpng.com/20190407/fsr/kisspng-business-intelligence-digital-marketing-home-absolutdata-5caaa79ab82554.3832436115546878987543.jpg",
+                    "title": "Новые функции в RuStore",
+                    "lastUpdated": "2024-03-25",
+                    "isrecommended": true
         },
         {
           "size": "5.2 MB",
-          "image": "https://picsum.photos/300/200?random=11",
-          "title": "Редактор видео",
-          "lastUpdated": "2024-03-19",
-          "isrecommended": false
+                    "image": "https://habrastorage.org/webt/nm/q_/3x/nmq_3x1b_eccqomclbciqkb5go8.jpeg",
+                    "title": "Умный шлагбаум",
+                    "lastUpdated": "2024-03-19",
+                    "isrecommended": false
         },
         {
-          "size": "2.1 MB",
-          "image": "https://picsum.photos/300/200?random=12",
-          "title": "Фотогалерея",
-          "lastUpdated": "2024-03-21",
-          "isrecommended": true
+                  "size": "2.1 MB",
+                    "image": "https://i.pinimg.com/736x/e4/a0/bc/e4a0bc3b87cb5a371bbfc7c384990905.jpg",
+                    "title": "RuStore скачали более",
+                    "lastUpdated": "2024-03-21",
+                    "isrecommended": true
         }
       ],
-      "categoryImage": "https://picsum.photos/300/200?random=9",
-      "categoryTitle": "Развлечения"
+      "categoryImage": "https://static.vecteezy.com/system/resources/previews/000/135/428/original/free-internet-vector.jpg",
+            "categoryTitle": "Магазин Мобильных"
     }
   ],
   "featuredApp": {
@@ -172,7 +172,7 @@
     "send_feedback": "Отправьте нам отзыв",
     "settings_text": "Настройки",
     "watch_ad_text": "Посмотреть рекламу",
-    "welcome_title": "Добро пожаловать в Skin Tool ML",
+    "welcome_title": "Добро пожаловать в Restore для android",
     "chooseLanguage": "Выберите язык",
     "daily_congrats": "Поздравляем!",
     "downloads_left": "загрузка осталась",
@@ -180,8 +180,8 @@
     "drawer_privacy": "Политика конфиденциальности",
     "favorites_text": "Избранное",
     "pack_skin_list": "Список пакетов скинов",
-    "save_to_ml_btn": "СОХРАНИТЬ В ML",
-    "save_to_ml_msg": "Нажмите СОХРАНИТЬ В ML, чтобы начать установку. Пропустите этот шаг, если он уже установлен.",
+    "save_to_ml_btn": "СОХРАНИТЬ В Restore для android",
+    "save_to_ml_msg": "Нажмите СОХРАНИТЬ В Restore для android , чтобы начать установку. Пропустите этот шаг, если он уже установлен.",
     "categories_text": "Категории",
     "delete_skin_sub": "Вы уверены, что хотите удалить этот скин?",
     "dont_show_again": "Больше не показывать это приложение",
@@ -204,8 +204,8 @@
     "success_download_sub": "Мы усердно работаем над улучшением. Если вам нравится, оцените на 5 звезд.",
     "download_success_title": "Загрузка успешна",
     "get_more_downloads_sub": "Посмотрите рекламу, чтобы получить еще одну загрузку",
-    "installation_error_msg": "ML не установлен на вашем устройстве.",
-    "installation_error_sub": "ML не установлен на вашем устройстве.",
+    "installation_error_msg": "Restore для android не установлен на вашем устройстве.",
+    "installation_error_sub": "Restore для android  не установлен на вашем устройстве.",
     "installation_error_title": "Ошибка установки",
     "installation_success_sub": "Скин успешно установлен."
   },
@@ -271,4 +271,5 @@
     "button_text_color": "#fff"
   }
 }
+
 
