@@ -1,136 +1,139 @@
 {
-    "ads": {        
-        "adNetwork": "yandex",
-        "yandex_interstitial": "R-M-12811657-3",
-        "yandex_rewarded": "R-M-12811657-4",
-        "yandex_banner": "R-M-12811657-1",
-        "yandex_native": "R-M-12811657-2",
-        "applovin_banner": "ed7e2c808472d2bb",
-        "applovin_native": "0afc3d478643ab50",
-        "applovin_rewarded": "40fc931494c08af0",
-        "applovin_interstitial": "a96846dec1cd579b"
+  "ads": {
+    "adNetwork": "vk",
+    "vk_banner": "7250",
+    "vk_native": "7253",
+    "vk_rewarded": "7252",
+    "applovinopen": "9f9e60545e946f33",
+    "yandex_banner": "demo-banner-yandex",
+    "yandex_native": "demo-native-app-yandex",
+    "applovin_banner": "ff12bd8a55ff06bf",
+    "applovin_native": "3ad3bbd1e3c1e075",
+    "vk_interstitial": "7251",
+    "yandex_rewarded": "demo-rewarded-yandex",
+    "applovin_rewarded": "7ac3f6ee667a6264",
+    "yandex_interstitial": "demo-interstitial-yandex",
+    "applovin_interstitial": "98f6a586ed642919"
+  },
+  "flag": "https://flagsapi.com/RU/flat/64.png",
+  "language": "Russian",
+  "moreApps": [
+    {
+      "image": "https://picsum.photos/300/200?random=23",
+      "title": "Прогноз погоды",
+      "appLink": "https://play.google.com/store/apps/weather"
     },
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Prague_10.svg/800px-Flag_of_Prague_10.svg.png",
-    "language": "Russian",
-    "featuredApp": {
-        "appIcon": "https://static.beeline.ru/upload/images/landings/banner_rustore.png",
-        "appLink": "https://play.google.com/store/apps/details?id=com.restor.modskin",
-        "appSize": "12mb",
-        "appCover": "https://avatars.dzeninfra.ru/get-zen_doc/1923220/pub_63e39bf0912bd4746ccb5275_63e3a682912bd4746cce2f8e/scale_1200",
-        "appTitle": "Rustore",
-        "isActive": false,
-        "appRating": "5.0",
-        "appDescription": "Rustore is becoming more and more like Google Play"
+    {
+      "image": "https://picsum.photos/300/200?random=24",
+      "title": "Трекер фитнеса",
+      "appLink": "https://play.google.com/store/apps/fitness"
     },
-   "moreApps": [
+    {
+      "image": "https://picsum.photos/300/200?random=25",
+      "title": "Книга рецептов",
+      "appLink": "https://play.google.com/store/apps/recipe"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=26",
+      "title": "Изучение языков",
+      "appLink": "https://play.google.com/store/apps/language"
+    }
+  ],
+  "categories": [
+    {
+      "items": [
         {
-            "image": "https://play-lh.googleusercontent.com/Pj76q8t4kjONk0sa1KafpiC5pWqSBh3AK1Amu9w0S_h21VMgI-GJWFh2RnIICFHT5tE=s48-rw",
-            "title": "Horizon Chase",
-            "appLink": "https://play.google.com/store/apps/details?id=com.aquiris.horizonchase"
+          "size": "2.8 MB",
+          "image": "https://picsum.photos/300/200?random=2",
+          "title": "Приключенческий квест",
+          "lastUpdated": "2024-03-15",
+          "isrecommended": true
+        },
+        {
+          "size": "1.5 MB",
+          "image": "https://picsum.photos/300/200?random=3",
+          "title": "Мастер пазлов",
+          "lastUpdated": "2024-03-10",
+          "isrecommended": false
+        },
+        {
+          "size": "4.2 MB",
+          "image": "https://picsum.photos/300/200?random=4",
+          "title": "Звезды гонок",
+          "lastUpdated": "2024-03-20",
+          "isrecommended": true
         }
-    ],
-    "categories": [
+      ],
+      "categoryImage": "https://picsum.photos/300/200?random=1",
+      "categoryTitle": "Игры"
+    },
+    {
+      "items": [
         {
-            "items": [
-                {
-                    "size": "2.8 MB",
-                    "image": "https://www.dataset-ai.com/local/templates/main/vendors/images/2/6export0.png",
-                    "title": "В магазине приложений",
-                    "lastUpdated": "2024-03-15",
-                    "isrecommended": true
-                },
-                {
-                    "size": "1.5 MB",
-                    "image": "https://i.pinimg.com/originals/e8/54/44/e8544455f56ab1d668521bead398f84a.png",
-                    "title": "В RuStore добавили",
-                    "lastUpdated": "2024-03-10",
-                    "isrecommended": false
-                },
-                {
-                    "size": "4.2 MB",
-                    "image": "https://habrastorage.org/getpro/habr/upload_files/c40/4cc/da9/c404ccda90cdb9ccf4f9b385076f2ccd.png",
-                    "title": "смотреть онлайн все 1 видео ",
-                    "lastUpdated": "2024-03-20",
-                    "isrecommended": true
-                }
-            ],
-            "categoryImage": "https://i.pinimg.com/originals/9a/70/2e/9a702e61d4ec8d076bb44ce5befd34d9.png",
-            "categoryTitle": "Магазин приложений RuStore"
+          "size": "1.2 MB",
+          "image": "https://picsum.photos/300/200?random=6",
+          "title": "Проводник Pro",
+          "lastUpdated": "2024-03-18",
+          "isrecommended": true
         },
         {
-            "items": [
-                {
-                    "size": "1.2 MB",
-                    "image": "https://www.nottingham.ac.uk/Alumni/images/News/2023/Big-Question-data-marketing-web.x9bfb30e1.jpg",
-                    "title": "Вышел российский аналог",
-                    "lastUpdated": "2024-03-18",
-                    "isrecommended": true
-                },
-                {
-                    "size": "0.8 MB",
-                    "image": "https://trashbox.ru/ifiles/1950613_96672a_02/uchyonye-v-panike-iskusstvennyj-intellekt-nauchilsya-obmanyvat-lyudej-1.png",
-                    "title": "Imredi в  мобильных приложений ",
-                    "lastUpdated": "2024-03-12",
-                    "isrecommended": false
-                },
-                {
-                    "size": "1.0 MB",
-                    "image": "https://static.vecteezy.com/system/resources/previews/009/335/139/original/electronic-head-virtual-vector.jpg",
-                    "title": "Ru-Store для android Sync",
-                    "lastUpdated": "2024-03-22",
-                    "isrecommended": true
-                }
-            ],
-            "categoryImage": "https://static.vecteezy.com/system/resources/previews/000/133/344/original/free-business-background-vector.jpg",
-            "categoryTitle": "Минцифры представило дорожную"
+          "size": "0.8 MB",
+          "image": "https://picsum.photos/300/200?random=7",
+          "title": "Экономия батареи",
+          "lastUpdated": "2024-03-12",
+          "isrecommended": false
         },
         {
-            "items": [
-                {
-                    "size": "3.5 MB",
-                    "image": "https://banner2.cleanpng.com/20190407/fsr/kisspng-business-intelligence-digital-marketing-home-absolutdata-5caaa79ab82554.3832436115546878987543.jpg",
-                    "title": "Новые функции в RuStore",
-                    "lastUpdated": "2024-03-25",
-                    "isrecommended": true
-                },
-                {
-                    "size": "5.2 MB",
-                    "image": "https://habrastorage.org/webt/nm/q_/3x/nmq_3x1b_eccqomclbciqkb5go8.jpeg",
-                    "title": "Умный шлагбаум",
-                    "lastUpdated": "2024-03-19",
-                    "isrecommended": false
-                },
-                {
-                    "size": "2.1 MB",
-                    "image": "https://i.pinimg.com/736x/e4/a0/bc/e4a0bc3b87cb5a371bbfc7c384990905.jpg",
-                    "title": "RuStore скачали более",
-                    "lastUpdated": "2024-03-21",
-                    "isrecommended": true
-                }
-            ],
-            "categoryImage": "https://static.vecteezy.com/system/resources/previews/000/135/428/original/free-internet-vector.jpg",
-            "categoryTitle": "Магазин Мобильных"
+          "size": "1.0 MB",
+          "image": "https://picsum.photos/300/200?random=8",
+          "title": "Калькулятор Плюс",
+          "lastUpdated": "2024-03-22",
+          "isrecommended": true
         }
-    ],
-    "youtubeVideos": [
+      ],
+      "categoryImage": "https://picsum.photos/300/200?random=5",
+      "categoryTitle": "Утилиты"
+    },
+    {
+      "items": [
         {
-            "image": "https://repository-images.githubusercontent.com/209152659/0cb71c80-e7b3-11e9-8d01-2e280832e902",
-            "title": "Приложение Аргус",
-            "videoLink": "https://www.youtube.com/shorts/E2uF0X6Da6w"
+          "size": "3.5 MB",
+          "image": "https://picsum.photos/300/200?random=10",
+          "title": "Музыкальный плеер",
+          "lastUpdated": "2024-03-25",
+          "isrecommended": true
         },
         {
-            "image": "https://static.vecteezy.com/system/resources/previews/000/123/228/original/olive-green-linear-website-elements-vector.jpg",
-            "title": " отечественный магазин приложений, замена Google Play",
-            "videoLink": "https://www.youtube.com/watch?v=t43KdX87b3c&pp=ygUWcnVzdG9yZSDQtNC70Y8gYW5kcm9pZA%3D%3D"
+          "size": "5.2 MB",
+          "image": "https://picsum.photos/300/200?random=11",
+          "title": "Редактор видео",
+          "lastUpdated": "2024-03-19",
+          "isrecommended": false
         },
         {
-            "image": "https://g.foolcdn.com/editorial/images/548798/gettyimages-1133276307.jpg",
-            "title": "Tips and Tricks",
-            "videoLink": "https://www.youtube.com/shorts/HyEa3eC3RPA"
+          "size": "2.1 MB",
+          "image": "https://picsum.photos/300/200?random=12",
+          "title": "Фотогалерея",
+          "lastUpdated": "2024-03-21",
+          "isrecommended": true
         }
-    ],
-    "sharedStrings": {
- "ok_btn": "Ок",
+      ],
+      "categoryImage": "https://picsum.photos/300/200?random=9",
+      "categoryTitle": "Развлечения"
+    }
+  ],
+  "featuredApp": {
+    "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
+    "appLink": "https://play.google.com/store/apps/details?id=com.vapp.vmanager",
+    "appSize": "12mb",
+    "appCover": "https://i.imgur.com/N0OjzuV.png",
+    "appTitle": "V Manager",
+    "isActive": false,
+    "appRating": "5.0",
+    "appDescription": "V Manager — это инструмент для загрузки и обновления YV. Упрощает установку YV."
+  },
+  "sharedStrings": {
+    "ok_btn": "Ок",
     "bonus_5": "+ Бонус 5 монет",
     "no_text": "Нет",
     "nothing": "Ничего!!",
@@ -138,21 +141,21 @@
     "bonus_20": "+ Бонус 20 монет",
     "bonus_50": "+ Бонус 50 монет",
     "done_btn": "Готово",
-    "new_text": "Новое",
+    "new_text": "Новый",
     "next_btn": "Далее",
     "skip_btn": "Пропустить",
-    "the_best": "Лучшее, что мы можем предложить",
+    "the_best": "Лучшее, что у нас есть",
     "yes_text": "Да",
     "daily_sub": "Вы получили 1 бесплатную монету",
-    "home_text": "Главная",
+    "home_text": "Домой",
     "menu_text": "Меню",
-    "ready_sub": "Давайте начнем путешествие.",
+    "ready_sub": "Начнем путешествие сейчас.",
     "size_text": "Размер:",
     "cancel_btn": "Отмена",
-    "coins_text": "монеты",
+    "coins_text": "монет",
     "delete_btn": "УДАЛИТЬ",
     "empty_list": "Список пуст",
-    "ad_coin_sub": "Смотрите рекламу, чтобы получить 1 монету",
+    "ad_coin_sub": "Посмотрите рекламу, чтобы получить 1 монету",
     "delete_skin": "Удалить скин",
     "drawer_rate": "Оцените нас",
     "install_btn": "Установить",
@@ -160,61 +163,111 @@
     "search_hint": "Поиск",
     "welcome_sub": "Удивительное Android-приложение с крутыми функциями.",
     "continue_btn": "Продолжить",
-    "download_btn": "Загрузить",
-    "drawer_share": "Отправить ссылку на загрузку друзьям",
+    "download_btn": "Скачать",
+    "drawer_share": "Отправить ссылку друзьям",
     "exit_message": "Вы хотите выйти из приложения?",
     "rate_app_btn": "Оценить приложение",
-    "see_all_text": "Смотреть все",
-    "daily_message": "Каждый день вы будете получать 1 бесплатную монету при первом посещении этого экрана. Также здесь вы можете заработать больше монет.",
+    "see_all_text": "Посмотреть все",
+    "daily_message": "Каждый день вы будете получать 1 бесплатную монету при первом посещении этого экрана. Кроме того, здесь можно заработать больше монет.",
     "send_feedback": "Отправьте нам отзыв",
     "settings_text": "Настройки",
-    "watch_ad_text": "Смотреть рекламу",
-    "welcome_title": "Добро пожаловать в rstore для android   ",
+    "watch_ad_text": "Посмотреть рекламу",
+    "welcome_title": "Добро пожаловать в Skin Tool ML",
     "chooseLanguage": "Выберите язык",
     "daily_congrats": "Поздравляем!",
-    "downloads_left": "скачиваний осталось",
+    "downloads_left": "загрузка осталась",
     "drawer_account": "Аккаунт: Базовый",
     "drawer_privacy": "Политика конфиденциальности",
     "favorites_text": "Избранное",
-    "pack_skin_list": "Список скинов",
-    "save_to_ml_btn": "СОХРАНИТЬ В rstore для android ",
-    "save_to_ml_msg": "Используйте кнопку СОХРАНИТЬ В rustore для android  , чтобы начать установку. Пропустите этот шаг, если он уже установлен",
+    "pack_skin_list": "Список пакетов скинов",
+    "save_to_ml_btn": "СОХРАНИТЬ В ML",
+    "save_to_ml_msg": "Нажмите СОХРАНИТЬ В ML, чтобы начать установку. Пропустите этот шаг, если он уже установлен.",
     "categories_text": "Категории",
     "delete_skin_sub": "Вы уверены, что хотите удалить этот скин?",
     "dont_show_again": "Больше не показывать это приложение",
-    "downloaded_text": "Загружено",
+    "downloaded_text": "Скачано",
     "drawer_language": "Язык: Английский",
     "get_started_btn": "Начать",
-    "more_apps_title": "Больше приложений",
-    "drawer_more_apps": "Больше приложений",
-    "get_free_coin_ad": "Получить 1 бесплатную монету",
-    "save_instruction": "Используйте кнопку ниже, чтобы начать установку. Пропустите этот шаг, если он уже установлен.",
+    "more_apps_title": "Другие приложения",
+    "drawer_more_apps": "Другие приложения",
+    "get_free_coin_ad": "Получите 1 бесплатную монету",
+    "save_instruction": "Используйте кнопку ниже, чтобы начать процесс установки. Пропустите этот шаг, если он уже установлен.",
     "success_download": "Загрузка успешна",
     "download_received": "Вы получили еще одну загрузку",
     "last_updated_text": "Последнее обновление:",
     "recommended_title": "Рекомендуем вам",
     "get_more_downloads": "Получить больше загрузок",
     "installation_error": "Ошибка установки",
-    "the_best_we_can_get": "Лучшее, что мы можем предложить",
-    "download_success_msg": "Мы стараемся улучшить ваш опыт. Если вам нравится наше приложение, пожалуйста, оцените нас на 5 звезд.",
+    "the_best_we_can_get": "Лучшее, что у нас есть",
+    "download_success_msg": "Мы усердно работаем над улучшением. Если вам нравится, оцените нас на 5 звезд.",
     "installation_success": "Установка успешна",
-    "success_download_sub": "Мы стараемся улучшить ваш опыт. Если вам нравится наше приложение, пожалуйста, оцените нас на 5 звезд.",
+    "success_download_sub": "Мы усердно работаем над улучшением. Если вам нравится, оцените на 5 звезд.",
     "download_success_title": "Загрузка успешна",
-    "get_more_downloads_sub": "Смотрите рекламу, чтобы получить еще одну загрузку",
-    "installation_error_msg": "rstore для android не установлен на вашем устройстве.",
-    "installation_error_sub": "rstore для android не установлен на вашем устройстве.",
+    "get_more_downloads_sub": "Посмотрите рекламу, чтобы получить еще одну загрузку",
+    "installation_error_msg": "ML не установлен на вашем устройстве.",
+    "installation_error_sub": "ML не установлен на вашем устройстве.",
     "installation_error_title": "Ошибка установки",
-    "installation_success_sub": "Скин успешно установлен"
-
+    "installation_success_sub": "Скин успешно установлен."
+  },
+  "youtubeVideos": [
+    {
+      "image": "https://picsum.photos/300/200?random=13",
+      "title": "Руководство для начинающих",
+      "videoLink": "https://youtube.com/watch?v=abc123"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=14",
+      "title": "Руководство по продвинутым функциям",
+      "videoLink": "https://youtube.com/watch?v=def456"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=15",
+      "title": "Советы и хитрости",
+      "videoLink": "https://youtube.com/watch?v=ghi789"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=16",
+      "title": "Пользовательская демонстрация",
+      "videoLink": "https://youtube.com/watch?v=jkl012"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=17",
+      "title": "Последние обновления",
+      "videoLink": "https://youtube.com/watch?v=mno345"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=18",
+      "title": "Сообщество в центре внимания",
+      "videoLink": "https://youtube.com/watch?v=pqr678"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=19",
+      "title": "Особенности продукта",
+      "videoLink": "https://youtube.com/watch?v=stu901"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=20",
+      "title": "Лучшие практики",
+      "videoLink": "https://youtube.com/watch?v=vwx234"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=21",
+      "title": "Истории успеха",
+      "videoLink": "https://youtube.com/watch?v=yz5678"
+    },
+    {
+      "image": "https://picsum.photos/300/200?random=22",
+      "title": "Обзор продукта",
+      "videoLink": "https://youtube.com/watch?v=abc890"
     }
+  ],
+  "redirection_popup": {
+    "headline": "A new version is available! Please update to continue using the app.",
+    "isActive": true,
+    "logo_url": "https://www.wblibrary.org/site-assets/images/pinterest-logo/@@images/image.png",
+    "button_url": "https://www.google.com",
+    "button_text": "Update Now",
+    "button_color": "#511378",
+    "button_text_color": "#fff"
+  }
 }
-
-
-
-
-
-
-
-
-
-
