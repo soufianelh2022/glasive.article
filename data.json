@@ -263,7 +263,7 @@
   ],
   "redirection_popup": {
     "headline": "A new version is available! Please update to continue using the app.",
-    "isActive": true,
+    "isActive": false,
     "logo_url": "https://www.wblibrary.org/site-assets/images/pinterest-logo/@@images/image.png",
     "button_url": "https://www.google.com",
     "button_text": "Update Now",
@@ -271,3 +271,4 @@
     "button_text_color": "#fff"
   }
 }
+
