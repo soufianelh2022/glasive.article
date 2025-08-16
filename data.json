@@ -1,6 +1,6 @@
 {
   "ads": {
-    "adNetwork": "vk",
+    "adNetwork": "applovin",
     "vk_banner": "7250",
     "vk_native": "7253",
     "vk_rewarded": "7252",
@@ -263,7 +263,7 @@
   ],
   "redirection_popup": {
     "headline": "Вышла новая версия! Обновите приложение, чтобы продолжать пользоваться 😊",
-    "isActive": true,
+    "isActive": false,
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/2048px-RuStore_logo.svg.png",
     "button_url": "https://play.google.com/store/apps/details?id=com.Sharafat.Parwanit.hostudio.afghan.songs",
     "button_text": "Обновить сейчас",
@@ -271,6 +271,7 @@
     "button_text_color": "#fff"
   }
 }
+
 
 
 
