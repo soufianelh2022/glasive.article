@@ -262,15 +262,16 @@
     }
   ],
   "redirection_popup": {
-    "headline": "A new version is available! Please update to continue using the app.",
-    "isActive": false,
-    "logo_url": "https://www.wblibrary.org/site-assets/images/pinterest-logo/@@images/image.png",
-    "button_url": "https://www.google.com",
-    "button_text": "Update Now",
+    "headline": "Вышла новая версия! Обновите приложение, чтобы продолжать пользоваться 😊",
+    "isActive": true,
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/2048px-RuStore_logo.svg.png",
+    "button_url": "https://play.google.com/store/apps/details?id=com.Sharafat.Parwanit.hostudio.afghan.songs",
+    "button_text": "Обновить сейчас",
     "button_color": "#511378",
     "button_text_color": "#fff"
   }
 }
+
 
 
 
