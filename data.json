@@ -263,7 +263,7 @@
   ],
   "redirection_popup": {
     "headline": "Вышла новая версия! Обновите приложение, чтобы продолжать пользоваться 😊",
-    "isActive": false,
+    "isActive": true,
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/2048px-RuStore_logo.svg.png",
     "button_url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.restore.hostudio",
     "button_text": "Обновить сейчас",
@@ -271,6 +271,7 @@
     "button_text_color": "#fff"
   }
 }
+
 
 
 
