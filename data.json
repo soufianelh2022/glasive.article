@@ -262,15 +262,16 @@
     }
   ],
   "redirection_popup": {
-    "headline": "Вышла новая версия! Обновите приложение, чтобы продолжать пользоваться 😊",
+    "headline": "Для полного доступа к функциям требуется оставить 5-звёздочный отзыв в Google Play.",
     "isActive": true,
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/2048px-RuStore_logo.svg.png",
-    "button_url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.restore.hostudio",
-    "button_text": "Обновить сейчас",
+    "button_url": "https://play.google.com/store/apps/details?id=glasive.article",
+    "button_text": " Оценка для доступа",
     "button_color": "#511378",
-    "button_text_color": "#fff"
+    "button_text_color": "#007afc"
   }
 }
+
 
 
 
