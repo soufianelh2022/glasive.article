@@ -5,14 +5,14 @@
     "vk_native": "7253",
     "vk_rewarded": "7252",
     "applovinopen": "9f9e60545e946f33",
-    "yandex_banner": "demo-banner-yandex",
-    "yandex_native": "demo-native-app-yandex",
+    "yandex_banner": "R-M-17078460-3",
+    "yandex_native": "R-M-17078460-4",
     "applovin_banner": "ff12bd8a55ff06bf",
     "applovin_native": "3ad3bbd1e3c1e075",
     "vk_interstitial": "7251",
-    "yandex_rewarded": "demo-rewarded-yandex",
+    "yandex_rewarded": "R-M-17078460-2",
     "applovin_rewarded": "7ac3f6ee667a6264",
-    "yandex_interstitial": "demo-interstitial-yandex",
+    "yandex_interstitial": "R-M-17078460-1",
     "applovin_interstitial": "98f6a586ed642919"
   },
   "flag": "https://flagsapi.com/RU/flat/64.png",
@@ -271,6 +271,7 @@
     "button_text_color": "#007afc"
   }
 }
+
 
 
 
