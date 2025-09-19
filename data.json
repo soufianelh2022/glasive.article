@@ -1,15 +1,15 @@
 {
   "ads": {
-    "adNetwork": "applovin",
-    "vk_banner": "7250",
-    "vk_native": "7253",
+    "adNetwork": "VK",
+    "vk_banner": "1877387",
+    "vk_native": "1877395",
     "vk_rewarded": "7252",
     "applovinopen": "9f9e60545e946f33",
     "yandex_banner": "R-M-17078460-3",
     "yandex_native": "R-M-17078460-4",
     "applovin_banner": "ed7e2c808472d2bb",
     "applovin_native": "0afc3d478643ab50",
-    "vk_interstitial": "7251",
+    "vk_interstitial": "1877390",
     "yandex_rewarded": "R-M-17078460-2",
     "applovin_rewarded": "7ac3f6ee667a6264",
     "yandex_interstitial": "R-M-17078460-1",
@@ -271,6 +271,7 @@
     "button_text_color": "#007afc"
   }
 }
+
 
 
 
