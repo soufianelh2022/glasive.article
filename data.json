@@ -1,6 +1,6 @@
 {
   "ads": {
-    "adNetwork": "VK",
+    "adNetwork": "applovin",
     "vk_banner": "1877387",
     "vk_native": "1877395",
     "vk_rewarded": "7252",
@@ -271,6 +271,7 @@
     "button_text_color": "#007afc"
   }
 }
+
 
 
 
