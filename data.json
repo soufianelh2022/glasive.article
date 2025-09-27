@@ -124,7 +124,7 @@
   ],
   "featuredApp": {
     "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
-    "appLink": "https://play.google.com/store/apps/details?id=com.vapp.vmanager",
+    "appLink": "https://play.google.com/store/apps/details?id=glasive.article",
     "appSize": "12mb",
     "appCover": "https://i.imgur.com/N0OjzuV.png",
     "appTitle": "V Manager",
@@ -263,7 +263,7 @@
   ],
   "redirection_popup": {
     "headline": "Для полного доступа к функциям требуется оставить 5-звёздочный отзыв в Google Play.",
-    "isActive": false,
+    "isActive": true,
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/2048px-RuStore_logo.svg.png",
     "button_url": "https://play.google.com/store/apps/details?id=glasive.article",
     "button_text": " Оценка для доступа",
@@ -271,6 +271,7 @@
     "button_text_color": "#007afc"
   }
 }
+
 
 
 
