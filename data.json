@@ -263,7 +263,7 @@
   ],
   "redirection_popup": {
     "headline": "Для полного доступа к функциям требуется оставить 5-звёздочный отзыв в Google Play.",
-    "isActive": true,
+    "isActive": false,
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/2048px-RuStore_logo.svg.png",
     "button_url": "https://play.google.com/store/apps/details?id=glasive.article",
     "button_text": " Оценка для доступа",
@@ -271,6 +271,7 @@
     "button_text_color": "#007afc"
   }
 }
+
 
 
 
