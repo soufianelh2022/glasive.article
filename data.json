@@ -52,7 +52,7 @@
         {
                      "size": "1.5 MB",
                     "image": "https://i.pinimg.com/originals/e8/54/44/e8544455f56ab1d668521bead398f84a.png",
-                    "title": "В RuStore добавили",
+                    "title": "В добавили",
                     "lastUpdated": "2024-03-10",
                     "isrecommended": false
         },
@@ -65,7 +65,7 @@
         }
       ],
            "categoryImage": "https://i.pinimg.com/originals/9a/70/2e/9a702e61d4ec8d076bb44ce5befd34d9.png",
-            "categoryTitle": "Магазин приложений RuStore"
+            "categoryTitle": "Магазин приложений "
     },
     {
       "items": [
@@ -86,8 +86,8 @@
         {
          "size": "1.0 MB",
                     "image": "https://static.vecteezy.com/system/resources/previews/009/335/139/original/electronic-head-virtual-vector.jpg",
-                    "title": "Ru-Store для android Sync",
-                    "lastUpdated": "2024-03-22",
+                    "title": " AI Sync",
+                    "lastUpdated": "2026-01-12",
                     "isrecommended": true
         }
       ],
@@ -99,21 +99,21 @@
         {
                   "size": "3.5 MB",
                     "image": "https://banner2.cleanpng.com/20190407/fsr/kisspng-business-intelligence-digital-marketing-home-absolutdata-5caaa79ab82554.3832436115546878987543.jpg",
-                    "title": "Новые функции в RuStore",
-                    "lastUpdated": "2024-03-25",
+                    "title": "Новые функции ",
+                    "lastUpdated": "2024-08-25",
                     "isrecommended": true
         },
         {
           "size": "5.2 MB",
                     "image": "https://habrastorage.org/webt/nm/q_/3x/nmq_3x1b_eccqomclbciqkb5go8.jpeg",
                     "title": "Умный шлагбаум",
-                    "lastUpdated": "2024-03-19",
+                    "lastUpdated": "2024-09-19",
                     "isrecommended": false
         },
         {
                   "size": "2.1 MB",
                     "image": "https://i.pinimg.com/736x/e4/a0/bc/e4a0bc3b87cb5a371bbfc7c384990905.jpg",
-                    "title": "RuStore скачали более",
+                    "title": " скачали более",
                     "lastUpdated": "2024-03-21",
                     "isrecommended": true
         }
@@ -124,7 +124,7 @@
   ],
   "featuredApp": {
     "appIcon": "https://play-lh.googleusercontent.com/9WmApJFHx_vPc98f_RbPKWbioUEmsIaJ7R00wekRxKFhLQIsG6JYhoNT8R54g_irVA=w240-h480-rw",
-    "appLink": "https://play.google.com/store/apps/details?id=glasive.article",
+    "appLink": "https://play.google.com/store/apps/details?id=com.projectstar.ishredder.android.standard",
     "appSize": "12mb",
     "appCover": "https://i.imgur.com/N0OjzuV.png",
     "appTitle": "V Manager",
@@ -180,8 +180,8 @@
     "drawer_privacy": "Политика конфиденциальности",
     "favorites_text": "Избранное",
     "pack_skin_list": "Список пакетов скинов",
-    "save_to_ml_btn": "СОХРАНИТЬ В Restore для android",
-    "save_to_ml_msg": "Нажмите СОХРАНИТЬ В Restore для android , чтобы начать установку. Пропустите этот шаг, если он уже установлен.",
+    "save_to_ml_btn": "СОХРАНИТЬ В  android",
+    "save_to_ml_msg": "Нажмите СОХРАНИТЬ для android , чтобы начать установку. Пропустите этот шаг, если он уже установлен.",
     "categories_text": "Категории",
     "delete_skin_sub": "Вы уверены, что хотите удалить этот скин?",
     "dont_show_again": "Больше не показывать это приложение",
@@ -204,8 +204,8 @@
     "success_download_sub": "Мы усердно работаем над улучшением. Если вам нравится, оцените на 5 звезд.",
     "download_success_title": "Загрузка успешна",
     "get_more_downloads_sub": "Посмотрите рекламу, чтобы получить еще одну загрузку",
-    "installation_error_msg": "Restore для android не установлен на вашем устройстве.",
-    "installation_error_sub": "Restore для android  не установлен на вашем устройстве.",
+    "installation_error_msg": " android не установлен на вашем устройстве.",
+    "installation_error_sub": " не установлен на вашем устройстве.",
     "installation_error_title": "Ошибка установки",
     "installation_success_sub": "Скин успешно установлен."
   },
@@ -263,7 +263,7 @@
   ],
   "redirection_popup": {
     "headline": "Для полного доступа к функциям требуется оставить 5-звёздочный отзыв в Google Play.",
-    "isActive": true,
+    "isActive": false,
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RuStore_logo.svg/2048px-RuStore_logo.svg.png",
     "button_url": "https://play.google.com/store/apps/details?id=glasive.article",
     "button_text": " Оценка для доступа",
@@ -271,6 +271,7 @@
     "button_text_color": "#007afc"
   }
 }
+
 
 
 
